@@ -1,1 +1,1 @@
-ECHO ist eingeschaltet (ON).
+print("Die API läuft erfolgreich!")
